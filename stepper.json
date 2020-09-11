@@ -1,0 +1,1 @@
+[{"id":1,"title":"Verificación celular","component":"<Step1 />","current":"verification","steps":{"numStep":0},"progress":{"show":"none","percent":50,"time":"","textStep":""}},{"id":2,"title":"Actividad de la cuenta","component":"<Step2 />","current":"activity","steps":{"numStep":1},"progress":{"show":"none","percent":100,"time":"","textStep":""}}]
